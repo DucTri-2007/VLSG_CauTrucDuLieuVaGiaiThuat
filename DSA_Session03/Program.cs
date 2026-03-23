@@ -1,40 +1,37 @@
 ﻿using System;
 using System.Diagnostics;
-using System.Text;
 
+//Author: Vu Nguyen Duc Tri - 2500115657
 class Program
 {
     static void Main()
     {
-        Console.OutputEncoding = Encoding.UTF8;
-
-        // 1. Khởi tạo mảng 1 triệu phần tử (đã sắp xếp)
-        int n = 1_000_000;
-        int[] arr = new int[n];
-
-        for (int i = 0; i < n; i++)
+        int[] arr = new int[1000000];
+        for (int i = 0; i < arr.Length; i++)
         {
-            arr[i] = i * 2; // Mảng số chẵn tăng dần
+            arr[i] = i; // mảng đã sắp xếp
         }
 
-        int x = arr[n - 1]; // Tìm phần tử cuối (worst case)
+        int target = 999999;
 
         Stopwatch sw = new Stopwatch();
 
-        // 2. Linear Search
+        // Linear Search
         sw.Start();
-        int idx1 = LinearSearch(arr, x);
+        int idx1 = LinearSearch(arr, target);
         sw.Stop();
         Console.WriteLine($"[Linear] Index: {idx1}, Time: {sw.Elapsed.TotalMilliseconds} ms");
 
-        // 3. Binary Search
-        sw.Restart();
-        int idx2 = BinarySearch(arr, x);
+        // Reset timer
+        sw.Reset();
+
+        // Binary Search
+        sw.Start();
+        int idx2 = BinarySearch(arr, target);
         sw.Stop();
         Console.WriteLine($"[Binary] Index: {idx2}, Time: {sw.Elapsed.TotalMilliseconds} ms");
     }
 
-    // Linear Search
     static int LinearSearch(int[] arr, int target)
     {
         for (int i = 0; i < arr.Length; i++)
@@ -45,11 +42,9 @@ class Program
         return -1;
     }
 
-    // Binary Search
     static int BinarySearch(int[] arr, int target)
     {
-        int left = 0;
-        int right = arr.Length - 1;
+        int left = 0, right = arr.Length - 1;
 
         while (left <= right)
         {
