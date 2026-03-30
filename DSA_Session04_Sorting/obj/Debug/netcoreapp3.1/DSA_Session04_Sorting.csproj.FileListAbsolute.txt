@@ -1,0 +1,13 @@
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Sorting\obj\Debug\netcoreapp3.1\DSA_Session04_Sorting.csprojAssemblyReference.cache
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Sorting\obj\Debug\netcoreapp3.1\DSA_Session04_Sorting.AssemblyInfoInputs.cache
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Sorting\obj\Debug\netcoreapp3.1\DSA_Session04_Sorting.AssemblyInfo.cs
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Sorting\obj\Debug\netcoreapp3.1\DSA_Session04_Sorting.csproj.CoreCompileInputs.cache
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Sorting\bin\Debug\netcoreapp3.1\DSA_Session04_Sorting.exe
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Sorting\bin\Debug\netcoreapp3.1\DSA_Session04_Sorting.deps.json
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Sorting\bin\Debug\netcoreapp3.1\DSA_Session04_Sorting.runtimeconfig.json
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Sorting\bin\Debug\netcoreapp3.1\DSA_Session04_Sorting.runtimeconfig.dev.json
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Sorting\bin\Debug\netcoreapp3.1\DSA_Session04_Sorting.dll
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Sorting\bin\Debug\netcoreapp3.1\DSA_Session04_Sorting.pdb
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Sorting\obj\Debug\netcoreapp3.1\DSA_Session04_Sorting.dll
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Sorting\obj\Debug\netcoreapp3.1\DSA_Session04_Sorting.pdb
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Sorting\obj\Debug\netcoreapp3.1\DSA_Session04_Sorting.genruntimeconfig.cache
