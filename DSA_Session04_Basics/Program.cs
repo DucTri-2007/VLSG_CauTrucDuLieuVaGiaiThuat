@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 namespace DSA_Session04_Basics
-//Author: Nguyễn Van A - 25200123
+//Author: Vũ Nguyễn Đức Trí - 2500115657
 //Mục tiêu:
 //Bài 1: Lời chào thông minh
 //Yêu cầu: Nhập tên và MSSV, in ra lời chào.
@@ -47,7 +47,7 @@ namespace DSA_Session04_Basics
         x = y; //x = 10
         y = temp; //y = 5
         Console.WriteLine($"Sau khi swap: x = {x}, y = {y}");
-        
+
         }
     }
 }
