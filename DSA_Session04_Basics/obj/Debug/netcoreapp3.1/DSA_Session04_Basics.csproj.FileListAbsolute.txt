@@ -1,0 +1,13 @@
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Basics\bin\Debug\netcoreapp3.1\DSA_Session04_Basics.exe
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Basics\bin\Debug\netcoreapp3.1\DSA_Session04_Basics.deps.json
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Basics\bin\Debug\netcoreapp3.1\DSA_Session04_Basics.runtimeconfig.json
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Basics\bin\Debug\netcoreapp3.1\DSA_Session04_Basics.runtimeconfig.dev.json
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Basics\bin\Debug\netcoreapp3.1\DSA_Session04_Basics.dll
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Basics\bin\Debug\netcoreapp3.1\DSA_Session04_Basics.pdb
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Basics\obj\Debug\netcoreapp3.1\DSA_Session04_Basics.csprojAssemblyReference.cache
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Basics\obj\Debug\netcoreapp3.1\DSA_Session04_Basics.AssemblyInfoInputs.cache
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Basics\obj\Debug\netcoreapp3.1\DSA_Session04_Basics.AssemblyInfo.cs
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Basics\obj\Debug\netcoreapp3.1\DSA_Session04_Basics.csproj.CoreCompileInputs.cache
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Basics\obj\Debug\netcoreapp3.1\DSA_Session04_Basics.dll
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Basics\obj\Debug\netcoreapp3.1\DSA_Session04_Basics.pdb
+D:\CauTrucDuLieuVaGiaiThuat\DSA_Session04_Basics\obj\Debug\netcoreapp3.1\DSA_Session04_Basics.genruntimeconfig.cache
